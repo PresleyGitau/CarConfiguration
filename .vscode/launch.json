@@ -1,0 +1,26 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CarModelTest",
+      "request": "launch",
+      "mainClass": "CarModelTest",
+      "projectName": "ProjectFX_9b4fbd72"
+    },
+    {
+      "type": "java",
+      "name": "CarModels",
+      "request": "launch",
+      "mainClass": "CarModels",
+      "projectName": "ProjectFX_9b4fbd72"
+    },
+    {
+      "type": "java",
+      "name": "Launch JavaFX App",
+      "request": "launch",
+      "mainClass": "App",
+      "vmArgs": "--module-path \"C:/Users/azali/OneDrive/Desktop/Coding Projects/java/javafx-sdk-27/lib\" --add-modules javafx.controls,javafx.fxml"
+    }
+  ]
+}
